@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Giacomo Pozzoni
 
-<!--
-**jackpoz/jackpoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: giacomopoz@gmail.com 
+- 😄 Pronouns: He/Him 
 
-Here are some ideas to get you started:
+Here are some statistics about my GitHub contributions:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jackpoz&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/jackpoz)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jackpoz)  
+
