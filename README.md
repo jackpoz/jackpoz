@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Giacomo Pozzoni
 
 - 📫 How to reach me: giacomopoz@gmail.com 
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: He/Him
+- LinkedIn profile: https://www.linkedin.com/in/giacomo-pozzoni-95b4574a/
 
 Here are some statistics about my GitHub contributions:
 
